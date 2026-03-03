@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34bffde9f4da2d25",
+            "id": "735dc3c137803d9a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Agentic Engineering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 223.5
   },
   "right": {
     "id": "ff6ab05c8d2e6855",
@@ -180,16 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34bffde9f4da2d25",
+  "active": "09135af0788021fe",
   "lastOpenFiles": [
     "posts/solutions/我在2026年3月初的开发工作流.md",
+    "posts/custom/haha-jianpu.html",
+    "posts/custom",
+    "posts/solutions/我在 Agents 时代的工作流思考.md",
     "posts/solutions/免费服务羊毛.md",
     "posts/solutions/My Agent Team.md",
     "posts/solutions/AI 时代的电脑软件套装.md",
-    "posts/custom/haha-jianpu.html",
     "未命名.md",
     "posts/custom/2048.html",
-    "posts/custom",
     "posts/solutions/免费建站方案.md",
     "archives.md",
     "search/index.md",

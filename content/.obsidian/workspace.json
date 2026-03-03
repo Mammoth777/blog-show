@@ -11,14 +11,10 @@
             "id": "735dc3c137803d9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/solutions/我在 Agents 时代的工作流思考.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "我在 Agents 时代的工作流思考"
+              "title": "新标签页"
             }
           }
         ]
@@ -186,13 +182,15 @@
   },
   "active": "09135af0788021fe",
   "lastOpenFiles": [
+    "posts/solutions/我在2026年3月初的开发工作流.md",
+    "posts/custom/haha-jianpu.html",
+    "posts/custom",
     "posts/solutions/我在 Agents 时代的工作流思考.md",
     "posts/solutions/免费服务羊毛.md",
     "posts/solutions/My Agent Team.md",
     "posts/solutions/AI 时代的电脑软件套装.md",
     "未命名.md",
     "posts/custom/2048.html",
-    "posts/custom",
     "posts/solutions/免费建站方案.md",
     "archives.md",
     "search/index.md",
@@ -219,9 +217,7 @@
     "posts/devops/general/在mac上读取外接ext4硬盘.md",
     "posts/devops/general/在Obsidian中编辑博客.md",
     "posts/devops/general/一个免费博客方案.md",
-    "posts/devops/general/idx.md",
     "posts/devops/general",
-    "posts/devops",
     "posts/ai/MCP 协议入门/pics/MCP 使用流程理解.excalidraw.png",
     "posts/frontend/pics/mapboxgl.png",
     "posts/ai/pics/MCP 使用流程理解.excalidraw.png",

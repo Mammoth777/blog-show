@@ -1,8 +1,13 @@
 ---
-title: "我在 Agents 时代的工作流思考"
+title: 我在 Agents 时代的工作流思考
 date: 2026-03-03T12:54:01+08:00
-categories: ["AI", "工作流"]
-tags: ["Agent", "Agentic Engineering", "LLM"]
+categories:
+  - AI
+  - 工作流
+tags:
+  - Agent
+  - LLM
+  - AgentEngineering
 draft: false
 ---
 
